@@ -21,3 +21,66 @@
 - I learned about if statements, the ternary operator and switch
 - I learned about arrays being mutable and how they can store variable data types. They can also contain arrays.
 -I learned about array methods like indexOf, splice, slice, includes, lastIndexOf, join, pop, push, shift, unshift and sort
+
+
+
+## 23.07.22
+
+**Previously**: I learned about arrays and conditionals.
+
+**Today**: I plan on learning loops
+
+**Reflections**:
+
+
+## 02.08.22
+
+**Previously**: I learned about loops. I encountered a problem while trying to write a function that returns a random ID based on the length the user wants it to be.
+
+``` js
+
+const generateRandomId = (numberOfChar) => {
+  
+	const characters = '1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
+  let randomId = ''
+	for (let i = 0; i < numberOfChar; i ++) {
+    randomId += characters[Math.floor(Math.random() * 62) - 1]
+  }
+	console.log(randomId,randomId.length)
+}
+
+
+generateRandomId(10) 
+
+
+// generateRandomId(20)
+
+// generateRandomId(30)
+```
+The  above would sometimes return a randomId 8 characters longer. This was happening because the loop was sometimes returning undefined to randomId. I then updated it to look like this
+
+``` js
+
+const generateRandomId = (numberOfChar) => {
+  
+	const characters = '1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
+  let randomId = ''
+	for (let i = 0; i < numberOfChar; i ++) {
+    randomId += characters[Math.floor(Math.random() * 62)]
+  }
+	console.log(randomId,randomId.length)
+}
+
+
+generateRandomId(10) 
+
+
+// generateRandomId(20)
+
+// generateRandomId(30)
+```
+
+
+**Today**: I plan to learn about DOM manipulation
+
+**Reflections**: I learnt how to use js to target specific DOM elements. I learnt how to use querySelector, querySelectorAll, getElementById, classList.add, classList.toggle. I created a background gradient generator

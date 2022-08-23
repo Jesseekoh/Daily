@@ -6,14 +6,11 @@
 
 **Today:** I plan to learn about Date object
 
-
-
 ## 17.07.22
 
 **Previously:** I learned about the Date object and Date get mehtods.
 
 **Today:** I plan  on learning about conditionals and arrays
-
 
 **Reflections**:
 
@@ -22,8 +19,6 @@
 - I learned about arrays being mutable and how they can store variable data types. They can also contain arrays.
 -I learned about array methods like indexOf, splice, slice, includes, lastIndexOf, join, pop, push, shift, unshift and sort
 
-
-
 ## 23.07.22
 
 **Previously**: I learned about arrays and conditionals.
@@ -31,7 +26,6 @@
 **Today**: I plan on learning loops
 
 **Reflections**:
-
 
 ## 02.08.22
 
@@ -57,6 +51,7 @@ generateRandomId(10)
 
 // generateRandomId(30)
 ```
+
 The  above would sometimes return a randomId 8 characters longer. This was happening because the loop was sometimes returning undefined to randomId. I then updated it to look like this
 
 ``` js
@@ -80,7 +75,15 @@ generateRandomId(10)
 // generateRandomId(30)
 ```
 
-
 **Today**: I plan to learn about DOM manipulation
 
-**Reflections**: I learnt how to use js to target specific DOM elements. I learnt how to use querySelector, querySelectorAll, getElementById, classList.add, classList.toggle. I created a background gradient generator
+**Reflections**: I learnt how to use js to target specific DOM elements. I learnt how to use querySelector, querySelectorAll, getElementById, classList.add, classList.toggle. I created a background gradient generator.
+
+
+## 22.08.22
+
+**Previously**: I learned about DOM manipulation
+
+**Today**: I plan on covering the 9th part of Asabeneh's "30 Days Of JavaScript" challenge. The topic for today is "Higher Order Functions".
+
+**Reflections**: Today, I learnt what higher order functions are. I also learnt to use methods like filter, every, reduce and some. I learned about explicit return arrow functions.

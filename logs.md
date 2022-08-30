@@ -86,4 +86,13 @@ generateRandomId(10)
 
 **Today**: I plan on covering the 9th part of Asabeneh's "30 Days Of JavaScript" challenge. The topic for today is "Higher Order Functions".
 
-**Reflections**: Today, I learnt what higher order functions are. I also learnt to use methods like filter, every, reduce and some. I learned about explicit return arrow functions.
+**Reflections**: Today, I learnt what higher order functions are. I also learnt to use methods like filter, every, reduce and some. I learned about explicit return arrow functions. I couldn't complete all the exercise from chapter 9.
+
+## 23.08.22
+
+**Previously**: I learnt about higher order functions, callbacks and some array methods. 
+
+**Today**: I plan on completing yesterdays exercises.
+
+**Reflections**: I finally completed the exercises with some help from my older brother.
+

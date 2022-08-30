@@ -96,3 +96,12 @@ generateRandomId(10)
 
 **Reflections**: I finally completed the exercises with some help from my older brother.
 
+
+## 30.08.22
+
+**Previously**: I tackled some exercises from Asabeneh's "30 Days Of JavaScript" challenge.
+
+**Today**: I plan on working on the 404-not-found page challenge by devchallenges.io.
+
+**Reflections**: I've completed the 404 page challenge and it was awesome. Although the design I was to replicate wasn't complex, it feels good being able to bring a design to fruition.
+

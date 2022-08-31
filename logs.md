@@ -105,3 +105,11 @@ generateRandomId(10)
 
 **Reflections**: I've completed the 404 page challenge and it was awesome. Although the design I was to replicate wasn't complex, it feels good being able to bring a design to fruition.
 
+
+## 31.08.22
+
+**Previously**: I completed the 404 Not Found Responsive Web Developer challenge on [devchallenges.io](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY). 
+
+**Today**: I plan on completing the My Team Page challenge on [devchallenges.io](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U). I'm trying to put to practice certain css techniques I have difficulty with i.e CSS grid.
+
+**Reflections**: Css grid is still very confusing. I plan on watching some more courses on the topic and practice more by engaging in some challenges like devchallenges.io. It felt really nice hosting my own site online.

@@ -113,3 +113,11 @@ generateRandomId(10)
 **Today**: I plan on completing the My Team Page challenge on [devchallenges.io](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U). I'm trying to put to practice certain css techniques I have difficulty with i.e CSS grid.
 
 **Reflections**: Css grid is still very confusing. I plan on watching some more courses on the topic and practice more by engaging in some challenges like devchallenges.io. It felt really nice hosting my own site online.
+
+## 04.09.22
+
+**Previously**: I completed the team page challenge on devChallenges. 
+
+**Today**: I plan to complete the interior consultant page challenge.
+
+**Reflections**: This challenge was somewhat annoying because I encountered some difficulties with stacking context and the width of some elements on certain screen sizes. It was frustrating because I had to inspect elements in the browser and tweak the styles from the inspector panel. Since I use the "Live Server" extension for Vscode, when it was time to add those tweaks to my styles.css the whole page would refresh making the other tweaks I haven't transfered to my stylesheet disappear making me start all over again trying different properties to fix the problem. Other than the above, it was a nice experience.

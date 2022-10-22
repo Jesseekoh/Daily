@@ -121,3 +121,15 @@ generateRandomId(10)
 **Today**: I plan to complete the interior consultant page challenge.
 
 **Reflections**: This challenge was somewhat annoying because I encountered some difficulties with stacking context and the width of some elements on certain screen sizes. It was frustrating because I had to inspect elements in the browser and tweak the styles from the inspector panel. Since I use the "Live Server" extension for Vscode, when it was time to add those tweaks to my styles.css the whole page would refresh making the other tweaks I haven't transfered to my stylesheet disappear making me start all over again trying different properties to fix the problem. Other than the above, it was a nice experience.
+
+## 17.09.22
+
+**Previously**: I've been working on my portfolio site for a while now and I've encountered some problems trying to make the site responsive. One problem that kept bugging me was that when a user opened the hamburger menu on a small device and rotates his screen, if the width of the screen width is 768px or higher, the hamburger menu disappears and becomes a normal navbar but still keeps the active hamburger styles.
+
+**Reflections**: The problem with the navbar was as a result of me using the wrong media query. I used the min-width property instead of max-width.
+
+## 22.10.22
+
+**Previously**: I solved all the problems I encountered with my portfolio site navbar. I also started creating an unbeatable tic-tac-toe ai. I encountered small challenges here and there which I was able to solve after watching a couple of YouTube videos. A major block I experienced was not being able to understand the Minimax algorithm.
+
+**Today**: I plan on watching some YouTube lectures on the Minimax algorithm.

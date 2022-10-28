@@ -133,3 +133,11 @@ generateRandomId(10)
 **Previously**: I solved all the problems I encountered with my portfolio site navbar. I also started creating an unbeatable tic-tac-toe ai. I encountered small challenges here and there which I was able to solve after watching a couple of YouTube videos. A major block I experienced was not being able to understand the Minimax algorithm.
 
 **Today**: I plan on watching some YouTube lectures on the Minimax algorithm.
+
+**Reflections**:
+
+## 28.10.22 
+
+**Previously**: I struggled with implementing the Minimax algorithm for my unbeatable tictactoe game. After going through Youtube for a while I came across this - [The Coding Train](https://youtu.be/trKjYdBASyQ). With the knowledge I gathered from articles I read, I was finally understood the algortithm. The Minimax algorithm is a recursive function that returns a score based on the terminal state of the game i.e if X wins it returns +10 (maximizer), if O wins it returns -10 (minimizer) and if it's a tie, it returns 0. The algorithm loops through all the possible spots a player can play in and then returns the score. If the current state is not terminal, it calls itself again and goes through this cycle until it gets to a terminal state.
+
+**Today**: I plan on learning SASS. I'm using a youtube playlist i found by [The Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA).
